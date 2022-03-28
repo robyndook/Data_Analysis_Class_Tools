@@ -18,7 +18,7 @@ Apps, software and basic tools needed for data class (Berkeley Data Analysis Boo
   - [Download](https://www.tableau.com/products/public/download)
 - MongoDB
 - [Notepad++](https://notepad-plus-plus.org/downloads/)
-###### Create Online Accounts
+###### Online Accounts
 - [LinkedIn](https://www.linkedin.com/)
 - [GitHub (Web-based storage for developers)](https://github.com/)
 - [Stack Overflow](https://stackoverflow.com/)
@@ -29,7 +29,7 @@ Apps, software and basic tools needed for data class (Berkeley Data Analysis Boo
 - [NY Times - API](https://developer.nytimes.com/accounts/create)
 - [Google Maps - API](https://console.cloud.google.com/google/maps-apis/)
 
-###### Help Links
+###### Helpful Links
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Pandas Documentation](https://pandas.pydata.org/docs/dev/index.html)
 - [CSS Bootstap](https://getbootstrap.com/docs/3.3/css/)
