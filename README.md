@@ -3,7 +3,7 @@ Apps, software and basic tools needed for data class (Berkeley Data Analysis Boo
 ###### Browser and Slack - Install before class
 - [Google Chrome](https://www.google.com/chrome/)
   - TIP: Update search settings increase to 100, Open results in new window 
-- [Slack (Invite nedded)](https://slack.com/)  
+- [Slack (Invite needed)](https://slack.com/)  
 ###### Install Tools
 - [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
 - [Python 3](https://www.python.org/downloads/)
